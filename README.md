@@ -4,4 +4,4 @@
 
 ## Description
 
-This simple user script adds links to dependencies listed in JSON files on GitHub. It is originally derived from [@jerone](https://github.com/jerone)'s [UserScripts](https://github.com/jerone/UserScripts/tree/master/Github_JSON_Dependencies_Linker) project.
+This simple user script adds links to dependencies listed in JSON files on GitHub. It is based on [@jerone](https://github.com/jerone)'s [UserScripts](https://github.com/jerone/UserScripts/tree/master/Github_JSON_Dependencies_Linker) project.
